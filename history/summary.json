@@ -2,7 +2,7 @@
   {
     "name": "SKA Sitze GmBH",
     "url": "https://www.ska.de/",
-    "icon": "https://www.ska.de/wp-content/uploads/2016/03/cropped-SKA_Logo_4C_Quer-e1457183900124-32x32.jpg",
+    "icon": "https://icons.duckduckgo.com/ip3/www.ska.de.ico",
     "slug": "ska-sitze-gm-bh",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2499,
-    "timeDay": 1667,
-    "timeWeek": 2499,
-    "timeMonth": 2499,
-    "timeYear": 2499,
+    "time": 2379,
+    "timeDay": 1423,
+    "timeWeek": 2379,
+    "timeMonth": 2379,
+    "timeYear": 2379,
     "dailyMinutesDown": {}
   }
 ]
