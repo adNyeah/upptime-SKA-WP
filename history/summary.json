@@ -4,19 +4,19 @@
     "url": "https://www.ska.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ska.de.ico",
     "slug": "ska-sitze-gm-bh",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2093,
-    "timeDay": 1665,
-    "timeWeek": 1725,
-    "timeMonth": 2093,
-    "timeYear": 2093,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 2064,
+    "timeDay": 1634,
+    "timeWeek": 1710,
+    "timeMonth": 2064,
+    "timeYear": 2064,
     "dailyMinutesDown": {
-      "2024-09-25": 0
+      "2024-09-25": 19
     }
   }
 ]
