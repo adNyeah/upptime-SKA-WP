@@ -6,15 +6,15 @@
     "slug": "ska-sitze-gm-bh",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "98.68%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 2025,
-    "timeDay": 1662,
-    "timeWeek": 1745,
-    "timeMonth": 2025,
-    "timeYear": 2025,
+    "time": 2019,
+    "timeDay": 1910,
+    "timeWeek": 1669,
+    "timeMonth": 2019,
+    "timeYear": 2019,
     "dailyMinutesDown": {
       "2024-09-25": 19
     }
